@@ -3,4 +3,4 @@
 
 Here’s the main interface of thestudent_database_management:
 
-![Student_records](assets/1.png)
+![Student_records](1.png)
